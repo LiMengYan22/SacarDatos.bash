@@ -10,6 +10,10 @@ echo -e "#########" >> log.txt
 
 ```
 
+Logo.txt:
+
+```
+
 lun abril 5 14:00:00 CEST 2021
 total 392
 
@@ -23,3 +27,6 @@ drwx------  3 li  li   4096 abril 21 14:18 .adobe/
 drwxrwxr-x  4 li  li   4096 abril 24 13:20 .bluefish/
 drwx------ 16 li  li   4096 abril 22 08:46 .cache/
 ...
+
+
+```
